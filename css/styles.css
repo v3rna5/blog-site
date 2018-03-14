@@ -1,3 +1,13 @@
 .post {
   color: red;
 }
+
+.about {
+  width: 50%;
+}
+
+.loud {
+  font-style: italic;
+  font-weight: bold;
+  color: green;
+}
